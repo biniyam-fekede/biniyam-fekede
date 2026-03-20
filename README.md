@@ -48,7 +48,6 @@ PyTorch · CUDA · OpenCV · YOLOv6 · Pandas · scikit-learn
 | [On-brella](https://github.com/biniyam-fekede/Onbrella) | React · Node.js · PostgreSQL |
 
 ---
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
   <img width="8" />
